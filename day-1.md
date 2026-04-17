@@ -4,3 +4,8 @@
 - [ ] Study
 - [ ] Sleep
 ## Review
+Continue code for algorithm
+```python
+n = int(input())
+print(n)
+```
